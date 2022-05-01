@@ -112,7 +112,14 @@ Mungkin anda sedang mencari informasi tentang bagaimana cara download Whatsapp G
 Cara Menggunakan Dual WhatsApp GB
 ==================
 
-Jika anda ingin menggunakan dual Whatsapp GB terbaru, setelah berhasil diinstal maka anda bisa mendaftarkan 2 nomor ponsel seperti WhatsApp biasanya. Berikutnya, Anda dapat mengikuti proses pendaftaran sesuai petunjuk. 
+Jika anda ingin menggunakan dual Whatsapp GB terbaru, kamu harus mengunduh dan menginstall WA GB APK versi clone. Ciri utama dari apk WA GB versi clone ialah kode package name dari aplikasi tersebut berbeda dari aplikasi WhatsApp biasanya. Contoh package name dari GB WA terbaru versi clone yang valid adalah sebagai berikut:
+
+- gb.com.whatsapp
+- com.gbwhatsapp
+- com.gbwa
+- com.gbmods
+
+Nah itulah contoh package name dari aplikasi WhatsApp GB versi clone yang bisa diinstal dual nomor WA dalam satu hp. Untuk mengunduh GB WA versi Clone, masuk ke tautan berikut ini lalu pilih opsi WhatsApp Mod selain Fouad WhatsApp atau WA Mod versi Unclone: https://karinov.co.id/download-wa-gb/
 
 Solusi Jika Terjadi Ban Di Akun Whatsapp GB
 =========================
@@ -127,4 +134,6 @@ Meskipun jarang dijumpai, akan tetapi bisa saja para pengguna Whatsapp GB memper
 
 Aplikasi WhatsApp GB terbaru memang sudah tidak diragukan lagi memberikan pengaruh dan manfaat besar dalam komunikasi. Bisa dipastikan hampir semua orang sekarang ini yang memiliki smartphone juga mempunyai aplikasi ini di dalamnya. Pekerjaan, bisnis, edukasi, dan kehidupan sosial lainnya sangat terbantu dengan Whatsapp.
 
-Credits: `Technolati.com <https://www.technolati.com>`_
+**Referensi:**
+
+`Sebuahutas.com <https://www.sebuahutas.com>`_, `Karinov.co.id <https://karinov.co.id>`_, `Whitepaper.co.id <https://whitepaper.co.id>`_ 
